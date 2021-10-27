@@ -28,7 +28,7 @@ The programming and numeric computing platform can be downloaded here:
 
 ### Executing program
 
-1. Open capacity_curves_comparison.m  
+1. Open capacity\_curves\_comparison.m  
 2. Run the code 
 3. A plot of the capacity curves should appear
 
